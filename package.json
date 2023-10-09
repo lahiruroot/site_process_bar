@@ -1,0 +1,9 @@
+{
+  "name": "web_scrolling_process",
+  "version": "1.0",
+  "description": "\"web_scrolling_process\" is an widget for the showing the web site scroll down process.",
+  "main": "index.js",
+  "repository": "web_scrolling_process",
+  "author": "Lahiru Udawaththa <lahiruudawaththa8@gmail.com>",
+  "license": "MIT"
+}
